@@ -16,7 +16,7 @@ function inLista(n, 1) {
         return false
     }
 }
-function adicionar() {
+function a dicionar() {
     if(isNumero(num.value) && !inLista(num.value, valores)) {
         valores.push(Number(num.value))
         let item = document.createElement('option')
