@@ -1,1 +1,5 @@
-# 10-js-avancado
+# #10 - JS: Avançando
+
+### Luan Paulino Marcelino
+
+[comment]: <> (Luan Paulino Marcelino)
